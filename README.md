@@ -11,7 +11,7 @@ A **minimalist and responsive QR Code Generator** with customizable colors. Ente
 
 ## Usage
 
-1. Open `https://dh4n453k4r4n.github.io/qrcode-generator/` in your browser.  
+1. Open https://dh4n453k4r4n.github.io/qrcode-generator/ in your browser.  
 2. Enter the text or URL.  
 3. Select a color or use the custom color picker.  
 4. Click **Generate** to create the QR code.  
